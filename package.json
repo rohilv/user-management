@@ -1,7 +1,7 @@
 {
-  "name": "questionnaire-webapp-rbac",
+  "name": "user-management",
   "version": "1.0.0",
-  "description": "A web application for user details and document submission with RBAC",
+  "description": "A web application for user details and document submission",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
