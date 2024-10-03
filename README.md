@@ -1,3 +1,2 @@
 # user-management
-
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/rohilv/user-management)
+A simple webapp developed using bolt.new and [Stackblitz](https://stackblitz.com/~/github.com/rohilv/user-management)
